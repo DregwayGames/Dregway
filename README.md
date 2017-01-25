@@ -64,3 +64,8 @@ Slightly dystopian allows for some slightly out-of-reality creatures
 2. Set up input/rendering in #define statements, so we can set the compile target for remote/local versions of the game
 3. This should allow us to switch between local/remote versions just by changing the compile settings
  
+### Using
+
+1. Rendering/Input: https://github.com/craftworkgames/MonoGame.Extended
+2. Communications: JSON serialization
+3. Server: http://pomelo.netease.com/index.html or base C# (Figure this out later)
