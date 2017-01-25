@@ -48,7 +48,7 @@ Slightly dystopian allows for some slightly out-of-reality creatures
 - [ ] async tile rendering
 - [ ] async input handling
 - [ ] empty levels
-- [ ] nice sprites/spritesheets
+- [ ] basic sprites/spritesheets
 
 #####Next steps:
 
