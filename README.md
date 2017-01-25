@@ -7,6 +7,7 @@ A near-future dystopian turn-based roguelike.
 
 ###Enemies:
 Slightly dystopian allows for some slightly out-of-reality creatures
+
 1. Silicates, Bots, androids, cyborgs, etc
 2. Mutants, sewer dwellers, junkies, etc
 3. Bulletpriests, hackers, etc
