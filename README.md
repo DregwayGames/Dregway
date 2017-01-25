@@ -56,4 +56,11 @@ Slightly dystopian allows for some slightly out-of-reality creatures
 - [ ] basic elevation system
 - [ ] nice sprites/spritesheets
 - [ ] multiple actors at once
+
+
+##Implementation Strategy
+
+1. Seperate all rendering and input gathering from any game logic
+2. Set up input/rendering in #define statements, so we can set the compile target for remote/local versions of the game
+3. This should allow us to switch between local/remote versions just by changing the compile settings
  
