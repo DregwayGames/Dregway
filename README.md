@@ -3,19 +3,20 @@
 A near-future dystopian turn-based roguelike.
 
 
-Level Design:
+###Level Design:
 
-Enemies:
+###Enemies:
 
-Equipment/items:
+###Equipment/items:
 
-What makes it unique?
+###What makes it unique?
 
-Goal:
+###Goal:
 
-"""Plot""":
+###"""Plot""":
 
-Different Game Systems?
+###Different Game Systems?
 
+---
 
-Roadmap
+###Roadmap
