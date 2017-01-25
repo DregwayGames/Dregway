@@ -41,4 +41,19 @@ Slightly dystopian allows for some slightly out-of-reality creatures
 
 ---
 
-###Roadmap
+##Roadmap
+######Starting Out:
+
+- [ ] basic movement/action
+- [ ] async tile rendering
+- [ ] async input handling
+- [ ] empty levels
+- [ ] nice sprites/spritesheets
+
+#####Next steps:
+
+- [ ] basic level generation
+- [ ] basic elevation system
+- [ ] nice sprites/spritesheets
+- [ ] multiple actors at once
+ 
