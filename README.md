@@ -37,6 +37,7 @@ Slightly dystopian allows for some slightly out-of-reality creatures
 4. Abilities are mostly equipment based - very little in the way of character progression
 5. layered level system: high/low/mid elevation, etc
 6. Plan route through undercity/dregway to visit specific nodes (missions are by selection, endresults are to be factored in: ie weapon dealers, etc)
+7. Limb based combat: can attain damage to specific limbs/regions, same for enemies: should be too much effort, essentially we just create region objects and hit chances
 
 
 ---
