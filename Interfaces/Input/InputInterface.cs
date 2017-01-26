@@ -1,3 +1,6 @@
+using Dregway.Enums.Input;
+using Dregway.Objects.Input;
+
 namespace Dregway.Interfaces.Input {
     interface InputInterface {
         /*
@@ -43,5 +46,11 @@ namespace Dregway.Interfaces.Input {
         /// </summary>
         /// <returns>InputType -  the type of input to expect/check for</returns>
         InputType waitForInput ();
+
+        /// <summary>
+        /// Use to get a specifically typed input object (blocks until reached)
+        /// </summary>
+        /// <returns>InputObject -> can be typechecked for specific instances of input</returns>
+        InputObject waitForObjectInput();
     }
 }
