@@ -19,6 +19,7 @@ Slightly dystopian allows for some slightly out-of-reality creatures
 3. stim-suits: become some sort of speed, toxicity when damaged, etc
 4. mechanized limbs/brain/etc - irreversible, but powerful - opens you up to hacking, degradation - doesn't heal normally
 5. Smart grenades, scanning modules, molotovs, bows and javelins - should be able to mix and match pretty much anything here
+6. Loose class system with a passive perk tree
 
 ###What makes it unique?
 
